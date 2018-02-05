@@ -9,6 +9,8 @@ package com.mahadi;
  * enum can be defined within or outsite of the class
  *
  */
+
+
 public class EnumExample1 {
 
     public enum Season{
